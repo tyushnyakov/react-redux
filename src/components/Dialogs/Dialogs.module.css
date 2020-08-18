@@ -1,0 +1,14 @@
+.dialogsWrapper {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.interlocutors {
+    margin: 10px;
+    border-right: solid 2px gray ;
+}
+.interlocutor {
+    padding: 10px; 
+}
+.message {
+    padding: 10px; 
+}

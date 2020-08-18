@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.wrapper textarea {
+    margin: 10px;
+}
+.wrapper button {
+    padding: 10px;
+} 
+.avatar {
+    display: flex;
+}
+.avatar :first-child {
+    width: 50px;
+    border-radius: 50px;
+    padding: 10px;
+}

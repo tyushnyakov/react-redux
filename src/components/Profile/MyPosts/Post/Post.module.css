@@ -1,0 +1,13 @@
+.post {
+    padding: 10px;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.post :first-child {
+    width: 50px;
+    border-radius: 50px;
+}
+.like {
+    color: maroon;
+}
